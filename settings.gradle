@@ -1,0 +1,3 @@
+rootProject.name = 'test-gradle-implementation-version'
+rootProject.buildFileName = 'build.gradle.kts'
+
